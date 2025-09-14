@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!%20HSHwan입니다&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header" />
 </p>
 
 <h2 align="center">🛠️ Tech Stacks</h2>
